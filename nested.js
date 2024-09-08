@@ -17,3 +17,4 @@ if( myScore > 80 ){
 else{
     console.log( "biday prithibi" )
 }
+

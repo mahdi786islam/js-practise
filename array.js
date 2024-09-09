@@ -19,4 +19,8 @@ destinations.shift();
 console.log(destinations);
 destinations.unshift('kashmir');
 console.log(destinations);
-console.log(pop1, pop2)
+console.log(pop1, pop2);
+
+
+let include = destinations.includes('bandorban');
+console.log( 'this element includes in destinations array:', include);
